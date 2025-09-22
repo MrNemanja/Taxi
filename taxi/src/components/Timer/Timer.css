@@ -1,0 +1,19 @@
+.backgr {
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 40%;
+    height: 8%;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.label1 {
+    font-weight: bold;
+    font-size: 30px;
+
+}
+
+.label2 {
+    font-weight: bold;
+    color: yellow;
+    font-size: 30px;
+}

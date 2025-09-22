@@ -1,0 +1,631 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\models\\dto\\usergoogleregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\models\\dto\\usergoogleregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\controllers\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\controllers\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\services\\driveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\services\\driveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\services\\driverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\services\\driverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\controllers\\drivecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\controllers\\drivecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\interfaces\\idriveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\interfaces\\idriveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\interfaces\\idriverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\interfaces\\idriverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\models\\defaultdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\models\\defaultdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\models\\dto\\acceptride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\models\\dto\\acceptride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\models\\dto\\acceptedride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\models\\dto\\acceptedride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\models\\dto\\ridestarts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\models\\dto\\ridestarts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\migrations\\20240906122616_datamigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\migrations\\20240906122616_datamigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\models\\drive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\models\\drive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\models\\dto\\timeupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\models\\dto\\timeupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\models\\dto\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\models\\dto\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\models\\userdrive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\models\\userdrive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\models\\driverrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\models\\driverrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\models\\dto\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\models\\dto\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\models\\dto\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\models\\dto\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\models\\dto\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\models\\dto\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\models\\dto\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\models\\dto\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\models\\dto\\fullride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\models\\dto\\fullride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\models\\dto\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\models\\dto\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\models\\dto\\myride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\models\\dto\\myride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\models\\dto\\orderridecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\models\\dto\\orderridecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\models\\dto\\userupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\models\\dto\\userupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\models\\enums\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\models\\enums\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|c:\\users\\nemanja\\documents\\github\\taxi\\taxi-backhand\\taxiapp\\taxiapp\\models\\enums\\verificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD283F1-ABDA-41C2-A7E3-2A05F5447182}|TaxiApp\\TaxiApp.csproj|solutionrelative:taxiapp\\models\\enums\\verificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DriverController.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Controllers\\DriverController.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Controllers\\DriverController.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Controllers\\DriverController.cs",
+              "RelativeToolTip": "TaxiApp\\Controllers\\DriverController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:14:36.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Services\\UserService.cs",
+              "RelativeToolTip": "TaxiApp\\Services\\UserService.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAIIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:39:18.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DriveController.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Controllers\\DriveController.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Controllers\\DriveController.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Controllers\\DriveController.cs",
+              "RelativeToolTip": "TaxiApp\\Controllers\\DriveController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:29:43.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Startup.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Startup.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Startup.cs",
+              "RelativeToolTip": "TaxiApp\\Startup.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAFEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:44:28.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TaxiApp\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:19:08.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\User.cs",
+              "RelativeToolTip": "TaxiApp\\Models\\User.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA+wBgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:02:31.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TaxiApp\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:39:35.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserGoogleRegister.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\UserGoogleRegister.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Models\\DTO\\UserGoogleRegister.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\UserGoogleRegister.cs",
+              "RelativeToolTip": "TaxiApp\\Models\\DTO\\UserGoogleRegister.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:29:04.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DriveService.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Services\\DriveService.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Services\\DriveService.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Services\\DriveService.cs",
+              "RelativeToolTip": "TaxiApp\\Services\\DriveService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:30:57.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DriverService.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Services\\DriverService.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Services\\DriverService.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Services\\DriverService.cs",
+              "RelativeToolTip": "TaxiApp\\Services\\DriverService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAcwBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:15:11.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "TaxiApp\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:49:54.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDriveService.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Interfaces\\IDriveService.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Interfaces\\IDriveService.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Interfaces\\IDriveService.cs",
+              "RelativeToolTip": "TaxiApp\\Interfaces\\IDriveService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T11:20:40.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDriverService.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Interfaces\\IDriverService.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Interfaces\\IDriverService.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Interfaces\\IDriverService.cs",
+              "RelativeToolTip": "TaxiApp\\Interfaces\\IDriverService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T11:15:29.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DefaultData.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DefaultData.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Models\\DefaultData.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DefaultData.cs",
+              "RelativeToolTip": "TaxiApp\\Models\\DefaultData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:30:31.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\appsettings.json",
+              "RelativeDocumentMoniker": "TaxiApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\appsettings.json",
+              "RelativeToolTip": "TaxiApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-15T11:13:13.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "TaxiApp\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwA8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:50:09.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "TaxiApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T17:08:45.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Program.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Program.cs",
+              "RelativeToolTip": "TaxiApp\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:44:11.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AcceptRide.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\AcceptRide.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Models\\DTO\\AcceptRide.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\AcceptRide.cs",
+              "RelativeToolTip": "TaxiApp\\Models\\DTO\\AcceptRide.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:28:23.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AcceptedRide.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\AcceptedRide.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Models\\DTO\\AcceptedRide.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\AcceptedRide.cs",
+              "RelativeToolTip": "TaxiApp\\Models\\DTO\\AcceptedRide.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T12:22:18.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RideStarts.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\RideStarts.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Models\\DTO\\RideStarts.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\RideStarts.cs",
+              "RelativeToolTip": "TaxiApp\\Models\\DTO\\RideStarts.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:19:43.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TimeUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\TimeUpdate.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Models\\DTO\\TimeUpdate.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\TimeUpdate.cs",
+              "RelativeToolTip": "TaxiApp\\Models\\DTO\\TimeUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T15:15:29.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240906122616_DataMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Migrations\\20240906122616_DataMigration.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Migrations\\20240906122616_DataMigration.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Migrations\\20240906122616_DataMigration.cs",
+              "RelativeToolTip": "TaxiApp\\Migrations\\20240906122616_DataMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:26:17.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Drive.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\Drive.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Models\\Drive.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\Drive.cs",
+              "RelativeToolTip": "TaxiApp\\Models\\Drive.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:06:32.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\UserProfile.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Models\\DTO\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\UserProfile.cs",
+              "RelativeToolTip": "TaxiApp\\Models\\DTO\\UserProfile.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T08:06:28.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserDrive.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\UserDrive.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Models\\UserDrive.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\UserDrive.cs",
+              "RelativeToolTip": "TaxiApp\\Models\\UserDrive.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:03:12.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DriverRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DriverRequest.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Models\\DriverRequest.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DriverRequest.cs",
+              "RelativeToolTip": "TaxiApp\\Models\\DriverRequest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:04:59.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\UserLogin.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Models\\DTO\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\UserLogin.cs",
+              "RelativeToolTip": "TaxiApp\\Models\\DTO\\UserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:53:09.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserRegister.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\UserRegister.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Models\\DTO\\UserRegister.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\UserRegister.cs",
+              "RelativeToolTip": "TaxiApp\\Models\\DTO\\UserRegister.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:53:31.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\Driver.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Models\\DTO\\Driver.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\Driver.cs",
+              "RelativeToolTip": "TaxiApp\\Models\\DTO\\Driver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:32:59.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\Rating.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Models\\DTO\\Rating.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\Rating.cs",
+              "RelativeToolTip": "TaxiApp\\Models\\DTO\\Rating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:38:13.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MyRide.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\MyRide.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Models\\DTO\\MyRide.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\MyRide.cs",
+              "RelativeToolTip": "TaxiApp\\Models\\DTO\\MyRide.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:14:22.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FullRide.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\FullRide.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Models\\DTO\\FullRide.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\FullRide.cs",
+              "RelativeToolTip": "TaxiApp\\Models\\DTO\\FullRide.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:05:58.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Ride.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\Ride.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Models\\DTO\\Ride.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\Ride.cs",
+              "RelativeToolTip": "TaxiApp\\Models\\DTO\\Ride.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T09:39:10.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OrderRidecs.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\OrderRidecs.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Models\\DTO\\OrderRidecs.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\OrderRidecs.cs",
+              "RelativeToolTip": "TaxiApp\\Models\\DTO\\OrderRidecs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:04:13.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "VerificationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\Enums\\VerificationRequest.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Models\\Enums\\VerificationRequest.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\Enums\\VerificationRequest.cs",
+              "RelativeToolTip": "TaxiApp\\Models\\Enums\\VerificationRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T20:25:04.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\UserUpdate.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Models\\DTO\\UserUpdate.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\DTO\\UserUpdate.cs",
+              "RelativeToolTip": "TaxiApp\\Models\\DTO\\UserUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T10:08:52.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\Enums\\UserRoles.cs",
+              "RelativeDocumentMoniker": "TaxiApp\\Models\\Enums\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\Nemanja\\Documents\\GitHub\\Taxi\\taxi-backhand\\TaxiApp\\TaxiApp\\Models\\Enums\\UserRoles.cs",
+              "RelativeToolTip": "TaxiApp\\Models\\Enums\\UserRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:45:51.979Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

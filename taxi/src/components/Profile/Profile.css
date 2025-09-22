@@ -1,0 +1,67 @@
+.backgroundP {
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 80%;
+    height: 70%;
+    margin: auto;
+    display: inline-block;
+}
+
+.divShow {
+    width: 49.72%;
+    height: 100%;
+    border: 2px solid white;
+    display: inline-block;
+}
+
+.divData {
+    border: 1px solid white;
+    position: absolute;
+    margin-top: 3%;
+    margin-left: 2%;
+    padding: 1%;
+    width: fit-content;
+    
+}
+
+.divImage {
+   position: absolute;
+   width: 10%;
+   height: 20%;
+   margin-left: 28%;
+   border: 1px solid white;
+   margin-top: 3%;
+}
+
+.h2 {
+    color: white;
+}
+
+.divUpdate {
+    width: 49.72%;
+    height: 100%;
+    border: 2px solid white;
+    display: inline-block;
+    color: white;
+}
+
+.labelP {
+    font-size: 20px;
+    color: yellow;
+}
+
+.labelP1 {
+    font-size: 20px;
+}
+
+.label {
+    color: black;
+    font-weight: bold;
+  }
+
+.divForm {
+    position: absolute;
+    border: 2px solid white;
+    margin-left: 8.5%;
+    margin-top: 3%;
+    padding: 1%;
+}

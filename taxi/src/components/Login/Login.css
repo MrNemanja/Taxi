@@ -1,0 +1,52 @@
+.App {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("/slike/background.jpg");
+  
+  }
+
+.LogIn {
+    background-color: rgba(0, 0, 0, 0.7);
+    margin: auto;
+    width: 35%;
+    height: 40%;
+    border-radius: 10%;
+    align-items: center;
+    color: white;
+    
+  }
+  
+  .button {
+    text-align: center;
+    background-color: white;
+    color: black;
+    border-radius: 5%;
+    border: 3px solid black;
+    width: 20%;
+  }
+  
+  .button:hover {
+    text-align: center;
+    background-color: black;
+    color: yellow;
+    border-radius: 5%;
+    border: 3px solid black;
+    width: 20%;
+  }
+  
+  .label {
+    color: black;
+    font-weight: bold;
+  }
+
+.p {
+  display: inline-block;
+}
+
+.link {
+  color: aqua;
+}

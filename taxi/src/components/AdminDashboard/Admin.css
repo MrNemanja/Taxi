@@ -1,0 +1,174 @@
+.AppU {
+  position: fixed;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-image: url("/slike/background.jpg");
+ 
+  
+}
+
+.backgroundA {
+  background-color: rgba(0, 0, 0, 0.7);
+  width: 80%;
+  height: 70%;
+  margin: 0 auto;
+  position: relative;
+  overflow: auto;
+}
+
+.backgroundA1
+{
+  background-color: rgba(0, 0, 0, 0.7);
+  width: 80%;
+  height: 70%;
+  margin: 0 auto;
+  position: relative;
+  overflow: auto;
+}
+
+.backgroundAA
+{
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+  text-align: center;
+}
+
+.allride {
+  border: 2px solid white;
+  width: 18%;
+  height: 45%;
+  margin-top: 0.5%;
+  display: inline-block;
+  text-align: left;
+  padding: 0.5%;
+  overflow: auto;
+}
+
+.verification {
+  border: 2px solid white;
+  width: 50%;
+  height: 15%;
+  margin-top: 1%;
+  position: absolute;
+  margin-left: 25%;
+  text-align: left;
+  padding: 0.5%;
+}
+
+.header {
+width: 80%;
+height: 7%;
+margin: auto;
+}
+
+.headerButton {
+height:30px;
+min-width:80px;
+margin:10px;
+background-color: white;
+color: black;
+border-radius: 5%;
+border: 3px solid black;
+float: left;
+text-align: center;
+}
+
+.headerButton:hover {
+height:30px;
+min-width:80px;
+margin: 10px;
+text-align: center;
+background-color: black;
+color: yellow;
+border-radius: 5%;
+border: 3px solid black;
+float: left;
+}
+
+.logoutButton {
+height:30px;
+min-width:80px;
+margin: 10px;
+background-color: white;
+color: black;
+border-radius: 5%;
+border: 3px solid black;
+float: right;
+text-align: center;
+}
+
+.logoutButton:hover {
+height:30px;
+min-width:80px;
+margin: 10px;
+text-align: center;
+background-color: black;
+color: yellow;
+border-radius: 5%;
+border: 3px solid black;
+float: right;
+}
+
+.verificationButton {
+height:30px;
+min-width:80px;
+margin: 10px;
+background-color: white;
+color: black;
+border-radius: 5%;
+border: 3px solid black;
+text-align: center;
+}
+
+.verificationButton:hover {
+  height:30px;
+  min-width:80px;
+  margin: 10px;
+  text-align: center;
+  background-color: black;
+  color: yellow;
+  border-radius: 5%;
+  border: 3px solid black;
+  }
+
+.labelA {
+  font-size: 20px;
+}
+
+.labelA1 {
+  font-size: 20px;
+  color: yellow;
+}
+
+.labelN {
+  font-size: 17px;
+}
+
+.labelAA {
+  font-size: 12px;
+  color: white;
+}
+
+.labelAA1 {
+  font-size: 12px;
+  color: yellow;
+}
+
+.labell {
+  width: 49.5%;
+  position: absolute;
+}
+
+.buttons {
+  width: 49.5%;
+  position: absolute;
+  text-align: center;
+  margin-left: 49.5%;
+  margin-top: 2%;
+}
+
