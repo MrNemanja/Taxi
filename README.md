@@ -100,37 +100,3 @@ The driver can view their completed rides.
 
 2.5.7. All Rides
 The administrator has access to all rides and their statuses.
-
-3. System Implementation
-
-3.1. Server Platforms
-For the implementation of the project, the following server platform is used:
-.NET CORE or Microsoft Service Fabric
-
-3.2. Client Platforms
-For the implementation of the project, the following is used:
-Single-page interface application in React.
-
-3.3. Sending Emails
-There is no dedicated email service provided. You may use your own email account.
-
-3.4. Concurrent Resource Access
-It is important that multiple simultaneous users of the application cannot operate on the same element at the same time.
-In addition to this restriction, each student must identify at least one more conflicting situation for their part of the requirements and resolve it appropriately.
-
-Note: It is not enough to protect the client side; the server must also be secured! For example, test with Postman/Swagger whether it is possible to delete/modify an entity that does not exist. 
-Handle exceptions on both the front and back ends. 
-Create a model on the front end so that if the model changes on the back end, the change needs to be made in only one place on the front end.
-
-Note: Git must be used for version control, and the repository must be on GitHub, accessible to the instructors during project development and defense.
-
-3.5. Solution Architecture and Evaluation Criteria
-The project must comply with solution quality criteria and best practices for web application development demonstrated in exercises.
-The front end of the application must be divided into components.
-URLs of external services called from the front end must be stored in a .env file and read from there; this includes the URL of the back end of the application.
-HTTP calls from the front end must be placed in services injected into components, not directly inside components.
-Models must exist on the front end.
-DTOs and database models must exist as separate models, with proper mapping between them.
-Passwords in the database must be hashed.
-Token signatures and expiration must be validated.
-Configurable data (passwords for external services, URLs) on the back end must be kept in the appsettings.json file and loaded from there.
